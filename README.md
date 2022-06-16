@@ -1,4 +1,4 @@
-# Sock-Market-Prediction-using-LSTM
+# Stock-Market-Prediction-using-LSTM
 # Key Points:
 • Transformed data via MinMaxScaler for passing it to Long Short-Term Memory (LSTM) Time Series model developed via Keras
 • Developed Ridge Linear Regression & LSTM Time Series model to capture linear patterns & solve nonlinear regression estimations for stock
